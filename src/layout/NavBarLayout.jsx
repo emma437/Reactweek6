@@ -4,6 +4,7 @@ const routes = [
   { path: "/", name: "首頁" },
   { path: "/products", name: "產品列表" },
   { path: "/cart", name: "購物車" },
+  { path: "/login", name: "登入" },
 ];
 
 function NavBarLayout() {
